@@ -1,4 +1,11 @@
 # Avatarify-repo
+
+Please Note this repo is a clone of AVATARIFY-PYTHON By orginator Alievk
+IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY TELEGRAM CHANNEL https://t.me/avatarifydeepfake
+I WOULD BE ABLE TO HELP
+
+
+
 ![image](https://user-images.githubusercontent.com/75305634/235898182-a83ac1fd-ce58-4a7b-ad43-57cb6c18e016.png)
 https://github.com/alievk/avatarify-python/blob/master/docs/README.md#requirements
 
@@ -15,6 +22,8 @@ You can also run Avatarify remotely on Google Colab (easy) or on a dedicated ser
 Of course, you also need a webcam!
 
 WINDOWS
+
+
 https://youtu.be/lym9ANVb120
 
 Install [Miniconda Python 3.8](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
@@ -25,9 +34,26 @@ Download and install Avatarify (please copy-paste these commands and don't chang
 https://github.com/alievk/avatarify-python/blob/master/docs/README.md#download-network-weights and place vox-adv-cpk.pth.tar file in the avatarify-python directory (don't unpack it).
 Run run_windows.bat. If installation was successful, two windows "cam" and "avatarify" will appear. Leave these windows open for the next installation steps.
 
+
+
+
 Install [VirtualCam plugin](https://obsproject.com/forum/resources/obs-virtualcam.539/). Choose Install and register only 1 virtual camera.
 Run [OBS Studio](https://obsproject.com/).
 In the Sources section, press on Add button ("+" sign), select Windows Capture and press OK. In the appeared window, choose "[python.exe]: avatarify" in Window drop-down menu and press OK. Then select Edit -> Transform -> Fit to screen.
 In OBS Studio, go to Tools -> VirtualCam. Check AutoStart, set Buffered Frames to 0 and press Start.
 Now OBS-Camera camera should be available in Zoom (or other videoconferencing software).
 The steps 10-11 are required only once during setup.
+
+
+
+
+Setup avatars
+
+
+Avatarify comes with a standard set of avatars of famous people, but you can extend this set simply copying your avatars into avatars folder.
+
+Follow these advices for better visual quality:
+
+Make square crop of your avatar picture.
+Crop avatar's face so that it's not too close not too far. Use standard avatars as reference.
+Prefer pictures with uniform background. It will diminish visual artifacts.
