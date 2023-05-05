@@ -1,13 +1,13 @@
 # Avatarify-repo
 
-Please Note this repo is a clone of AVATARIFY-PYTHON By orginator Alievk
+Please Note this repo is a clone of AVATARIFY-PYTHON 
 IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY TELEGRAM CHANNEL [https://t.me/avatarifydeepfake]
 I WOULD BE ABLE TO HELP
 
 
 
 ![image](https://user-images.githubusercontent.com/75305634/235898182-a83ac1fd-ce58-4a7b-ad43-57cb6c18e016.png)
-[https://github.com/alievk/avatarify-python/blob/master/docs/README.md#requirements]
+
 
 ## Requirements
 You can run Avatarify in two modes: locally and remotely.
@@ -21,7 +21,7 @@ You can also run Avatarify remotely on Google Colab (easy) or on a dedicated ser
 
 Of course, you also need a webcam!
 
-### WINDOWS
+### For WINDOWS Installation
 
 
 (https://youtu.be/lym9ANVb120)
@@ -47,8 +47,7 @@ The steps 10-11 are required only once during setup.
 
 
 
-##Setup avatars
-
+**Setup avatars**
 
 Avatarify comes with a standard set of avatars of famous people, but you can extend this set simply copying your avatars into avatars folder.
 
