@@ -1,15 +1,15 @@
 # Avatarify-repo
 
 Please Note this repo is a clone of AVATARIFY-PYTHON By orginator Alievk
-IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY TELEGRAM CHANNEL https://t.me/avatarifydeepfake
+IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY TELEGRAM CHANNEL [https://t.me/avatarifydeepfake]
 I WOULD BE ABLE TO HELP
 
 
 
 ![image](https://user-images.githubusercontent.com/75305634/235898182-a83ac1fd-ce58-4a7b-ad43-57cb6c18e016.png)
-(https://github.com/alievk/avatarify-python/blob/master/docs/README.md#requirements)
+[https://github.com/alievk/avatarify-python/blob/master/docs/README.md#requirements]
 
-#Requirements
+## Requirements
 You can run Avatarify in two modes: locally and remotely.
 
 To run Avatarify locally you need a CUDA-enabled (NVIDIA) video card. Otherwise it will fallback to the central processor and run very slowly. These are performance metrics for some hardware:
@@ -21,7 +21,7 @@ You can also run Avatarify remotely on Google Colab (easy) or on a dedicated ser
 
 Of course, you also need a webcam!
 
-#WINDOWS
+### WINDOWS
 
 
 (https://youtu.be/lym9ANVb120)
@@ -29,7 +29,7 @@ Of course, you also need a webcam!
 Install [Miniconda Python 3.8](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
 Install[ Git](https://git-scm.com/download/win).
 Press Windows button and type "miniconda". Run suggested Anaconda Prompt.
-Download and install Avatarify (please copy-paste these commands and don't change them):
+>Download and install Avatarify (please copy-paste these commands and don't change them):
  
 [https://github.com/alievk/avatarify-python/blob/master/docs/README.md#download-network-weights] and place vox-adv-cpk.pth.tar file in the avatarify-python directory (don't unpack it).
 Run run_windows.bat. If installation was successful, two windows "cam" and "avatarify" will appear. Leave these windows open for the next installation steps.
@@ -47,7 +47,7 @@ The steps 10-11 are required only once during setup.
 
 
 
-#Setup avatars
+##Setup avatars
 
 
 Avatarify comes with a standard set of avatars of famous people, but you can extend this set simply copying your avatars into avatars folder.
