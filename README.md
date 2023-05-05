@@ -1,7 +1,8 @@
 # Avatarify-repo
 
 Please Note this repo is a clone of AVATARIFY-PYTHON 
-IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY TELEGRAM CHANNEL [https://t.me/avatarifydeepfake]
+IF YOU NEED ASSITANT INSTALLING ON YOUR PC EITHER VIA REOMOTE GPU OR WITH YOU PC GPU/CPU, DO SEND A DM ON MY 
+>[TELEGRAM CHANNEL](https://t.me/avatarifydeepfake)
 I WOULD BE ABLE TO HELP
 
 
@@ -23,22 +24,20 @@ Of course, you also need a webcam!
 
 ### For WINDOWS Installation
 
+<sub>Video guide</sub>
+https://youtu.be/lym9ANVb120
 
-(https://youtu.be/lym9ANVb120)
-
-Install [Miniconda Python 3.8](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
-Install[ Git](https://git-scm.com/download/win).
-Press Windows button and type "miniconda". Run suggested Anaconda Prompt.
->Download and install Avatarify (please copy-paste these commands and don't change them):
- 
-[https://github.com/alievk/avatarify-python/blob/master/docs/README.md#download-network-weights] and place vox-adv-cpk.pth.tar file in the avatarify-python directory (don't unpack it).
+- [ ]Install [Miniconda Python 3.8](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
+- [ ]Install[ Git](https://git-scm.com/download/win).
+- [ ]Press Windows button and type "miniconda". Run suggested Anaconda Prompt.
+- [ ]Download and install Avatarify (please copy-paste these commands and don't change them):[https://github.com/alievk/avatarify-python/blob/master/docs/README.md#download-network-weights] and place vox-adv-cpk.pth.tar file in the avatarify-python directory (don't unpack it).
 Run run_windows.bat. If installation was successful, two windows "cam" and "avatarify" will appear. Leave these windows open for the next installation steps.
 
 
 
 
-Install [VirtualCam plugin](https://obsproject.com/forum/resources/obs-virtualcam.539/). Choose Install and register only 1 virtual camera.
-Run [OBS Studio](https://obsproject.com/).
+- [ ]Install [VirtualCam plugin](https://obsproject.com/forum/resources/obs-virtualcam.539/). Choose Install and register only 1 virtual camera.
+- [ ]Run [OBS Studio](https://obsproject.com/).
 In the Sources section, press on Add button ("+" sign), select Windows Capture and press OK. In the appeared window, choose "[python.exe]: avatarify" in Window drop-down menu and press OK. Then select Edit -> Transform -> Fit to screen.
 In OBS Studio, go to Tools -> VirtualCam. Check AutoStart, set Buffered Frames to 0 and press Start.
 Now OBS-Camera camera should be available in Zoom (or other videoconferencing software).
